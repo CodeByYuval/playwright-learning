@@ -1,0 +1,22 @@
+{
+  "name": "playwright-learning",
+  "version": "1.0.0",
+  "description": "Learning Playwright automation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeByYuval/playwright-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeByYuval/playwright-learning/issues"
+  },
+  "homepage": "https://github.com/CodeByYuval/playwright-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
