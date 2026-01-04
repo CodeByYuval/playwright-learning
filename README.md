@@ -1,2 +1,2 @@
 # playwright-learning
-earning Playwright automation
+Learning Playwright automation
